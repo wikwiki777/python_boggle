@@ -1,4 +1,6 @@
+# Import the unittest framework
 import unittest
+# Import the .py file on which tests should run
 import boggle
 
 
