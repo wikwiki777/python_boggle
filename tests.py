@@ -2,7 +2,8 @@
 import unittest
 # Import the .py file on which tests should run
 import boggle
-
+# Import the 26 uppercase ASCII chars from A to Z
+from string import ascii_uppercase
 
 # class test_boggle(unittest.TestCase):
 #     def test_is_this_thing_on(self):
